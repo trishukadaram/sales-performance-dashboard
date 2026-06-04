@@ -45,7 +45,25 @@ A few things that stood out to me:
 4. **Sales vs Profit by Category** — Category level analysis
 5. **Profit Margin by Category** — Profitability analysis
 
-> Screenshots coming soon!
+## 📸 Screenshots
+
+### Monthly Sales Trend
+![Monthly Sales Trend](monthly_sales_trend.png)
+
+### Sales by Region
+![Sales by Region](sales_by_region.png)
+
+### Top 10 Products
+![Top 10 Products](top_10_products.png)
+
+### Sales vs Profit by Category
+![Sales vs Profit](profit_vs_sales_category.png)
+
+### Profit Margin by Category
+![Profit Margin](average_profit_margin_by_category.png)
+
+### Sales Performance Summary
+![Sales Performance Summary](sales_performance_summary.png)
 
 ---
 

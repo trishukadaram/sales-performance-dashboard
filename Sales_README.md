@@ -59,11 +59,11 @@ A few things that stood out to me:
 ### Sales vs Profit by Category
 ![Sales vs Profit](profit_vs_sales_category.png)
 
-### Profit Margin by Category
+### Average Profit Margin by Category
 ![Profit Margin](average_profit_margin_by_category.png)
 
 ### Sales Performance Summary
-![Sales Performance Summary](sales_performance_summary.png)
+![Sales Summary](sales_performance_summary.png)
 
 ---
 
